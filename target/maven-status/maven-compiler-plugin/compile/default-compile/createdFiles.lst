@@ -1,0 +1,7 @@
+udistrital\edu\co\view\TriageView.class
+udistrital\edu\co\model\TriageModel.class
+udistrital\edu\co\view\SistemaTriage.class
+udistrital\edu\co\controller\TriageController.class
+udistrital\edu\co\controller\SistemaTriage.class
+udistrital\edu\co\model\MinHeap.class
+udistrital\edu\co\model\Paciente.class
